@@ -1,0 +1,77 @@
+.header {
+  text-align: center;
+  color: #ff0aa7;
+  font-size: 0.8rem;
+  margin-bottom: 3rem;
+}
+.form {
+  background: #eae6e6;
+  height: 10rem;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.7rem;
+  font-weight: bold;
+  text-align: center;
+}
+.form-group select {
+  font-size: 0.8rem;
+  padding: 0.2rem;
+  border-radius: 4px;
+  margin: 0 8px;
+}
+.form-group input {
+  padding: 0.2rem;
+  border-radius: 4px;
+  border-color: #fff;
+  margin: 0 8px;
+  outline: none;
+}
+.btn {
+  margin: 10px 10px;
+  margin-top: 2rem;
+  padding: 0.1rem 0.8rem;
+  font-size: 0.7rem;
+  color: #fff;
+  background: #ff2aa7;
+  border-radius: 3px;
+  border-color: #ff2aa7;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.list-item {
+  list-style: none;
+  margin: 3rem;
+
+  padding: 0.5rem;
+  font-size: 0.7rem;
+}
+.list-item li {
+  border: 1px solid #eae6e6;
+  margin-bottom: 0.5rem;
+}
+
+.list-item h4 {
+  color: #ff0aa7;
+  padding: 0.2rem;
+  margin: 0;
+}
+.list-item p {
+  padding: 0.2rem;
+  margin: 0;
+}
